@@ -1,0 +1,4168 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv1",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.45809,
+              9.0561266,
+              0.0
+            ],
+            [
+              -79.456765,
+              9.0530381,
+              0.0
+            ],
+            [
+              -79.4546729,
+              9.0539122,
+              0.0
+            ],
+            [
+              -79.4559925,
+              9.057006,
+              0.0
+            ],
+            [
+              -79.45809,
+              9.0561266,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv2",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4559925,
+              9.0570007,
+              0.0
+            ],
+            [
+              -79.4546729,
+              9.0539069,
+              0.0
+            ],
+            [
+              -79.4525035,
+              9.0549677,
+              0.0
+            ],
+            [
+              -79.4527396,
+              9.0555293,
+              0.0
+            ],
+            [
+              -79.4526216,
+              9.0558365,
+              0.0
+            ],
+            [
+              -79.4523212,
+              9.0559849,
+              0.0
+            ],
+            [
+              -79.4530507,
+              9.0575317,
+              0.0
+            ],
+            [
+              -79.4536944,
+              9.0572986,
+              0.0
+            ],
+            [
+              -79.4539734,
+              9.0578602,
+              0.0
+            ],
+            [
+              -79.4559925,
+              9.0570007,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv3",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4559925,
+              9.057006,
+              0.0
+            ],
+            [
+              -79.4577917,
+              9.0612732,
+              0.0
+            ],
+            [
+              -79.4587359,
+              9.0609341,
+              0.0
+            ],
+            [
+              -79.4585224,
+              9.0571292,
+              0.0
+            ],
+            [
+              -79.4581115,
+              9.0561425,
+              0.0
+            ],
+            [
+              -79.4559925,
+              9.057006,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cv4",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4559925,
+              9.057006,
+              0.0
+            ],
+            [
+              -79.4542694,
+              9.0577365,
+              0.0
+            ],
+            [
+              -79.4543982,
+              9.0579961,
+              0.0
+            ],
+            [
+              -79.4545859,
+              9.0579061,
+              0.0
+            ],
+            [
+              -79.4549722,
+              9.0586583,
+              0.0
+            ],
+            [
+              -79.4557822,
+              9.0594662,
+              0.0
+            ],
+            [
+              -79.456839,
+              9.0590292,
+              0.0
+            ],
+            [
+              -79.4559925,
+              9.057006,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv6",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4542694,
+              9.0577365,
+              0.0
+            ],
+            [
+              -79.4522275,
+              9.0585926,
+              0.0
+            ],
+            [
+              -79.4532998,
+              9.0611749,
+              0.0
+            ],
+            [
+              -79.4524682,
+              9.0615061,
+              0.0
+            ],
+            [
+              -79.4526829,
+              9.0618504,
+              0.0
+            ],
+            [
+              -79.4529599,
+              9.0617432,
+              0.0
+            ],
+            [
+              -79.4537144,
+              9.0616201,
+              0.0
+            ],
+            [
+              -79.4544021,
+              9.0613585,
+              0.0
+            ],
+            [
+              -79.4546328,
+              9.0610186,
+              0.0
+            ],
+            [
+              -79.4556269,
+              9.0603576,
+              0.0
+            ],
+            [
+              -79.4557822,
+              9.0594662,
+              0.0
+            ],
+            [
+              -79.4549722,
+              9.0586583,
+              0.0
+            ],
+            [
+              -79.4545859,
+              9.0579061,
+              0.0
+            ],
+            [
+              -79.4543982,
+              9.0579961,
+              0.0
+            ],
+            [
+              -79.4542694,
+              9.0577365,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv5",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4568444,
+              9.0590345,
+              0.0
+            ],
+            [
+              -79.4557876,
+              9.0594715,
+              0.0
+            ],
+            [
+              -79.4556269,
+              9.0603576,
+              0.0
+            ],
+            [
+              -79.4546596,
+              9.060993,
+              0.0
+            ],
+            [
+              -79.4544021,
+              9.0613585,
+              0.0
+            ],
+            [
+              -79.4537144,
+              9.0616201,
+              0.0
+            ],
+            [
+              -79.4539465,
+              9.0620894,
+              0.0
+            ],
+            [
+              -79.4525786,
+              9.0627251,
+              0.0
+            ],
+            [
+              -79.4524538,
+              9.0634583,
+              0.0
+            ],
+            [
+              -79.4542106,
+              9.0627643,
+              0.0
+            ],
+            [
+              -79.4545217,
+              9.0635297,
+              0.0
+            ],
+            [
+              -79.4550394,
+              9.0633152,
+              0.0
+            ],
+            [
+              -79.4547363,
+              9.062555,
+              0.0
+            ],
+            [
+              -79.4577971,
+              9.0612785,
+              0.0
+            ],
+            [
+              -79.4568444,
+              9.0590345,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv7",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4532998,
+              9.0611749,
+              0.0
+            ],
+            [
+              -79.4522275,
+              9.0585926,
+              0.0
+            ],
+            [
+              -79.4497224,
+              9.0595746,
+              0.0
+            ],
+            [
+              -79.4493255,
+              9.0599613,
+              0.0
+            ],
+            [
+              -79.4495722,
+              9.0602209,
+              0.0
+            ],
+            [
+              -79.4499048,
+              9.0599136,
+              0.0
+            ],
+            [
+              -79.4505164,
+              9.0600726,
+              0.0
+            ],
+            [
+              -79.4506451,
+              9.0602474,
+              0.0
+            ],
+            [
+              -79.4509241,
+              9.0601255,
+              0.0
+            ],
+            [
+              -79.4509616,
+              9.0601944,
+              0.0
+            ],
+            [
+              -79.4511869,
+              9.0601097,
+              0.0
+            ],
+            [
+              -79.4513264,
+              9.0604063,
+              0.0
+            ],
+            [
+              -79.4512084,
+              9.0606341,
+              0.0
+            ],
+            [
+              -79.4515034,
+              9.0609625,
+              0.0
+            ],
+            [
+              -79.4523617,
+              9.06154,
+              0.0
+            ],
+            [
+              -79.4532998,
+              9.0611749,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv8",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4527299,
+              9.058375,
+              0.0
+            ],
+            [
+              -79.4526227,
+              9.0581393,
+              0.0
+            ],
+            [
+              -79.4523785,
+              9.0582373,
+              0.0
+            ],
+            [
+              -79.4517264,
+              9.0566971,
+              0.0
+            ],
+            [
+              -79.4505166,
+              9.0572667,
+              0.0
+            ],
+            [
+              -79.45053,
+              9.0574812,
+              0.0
+            ],
+            [
+              -79.4500016,
+              9.0587182,
+              0.0
+            ],
+            [
+              -79.4498323,
+              9.0587789,
+              0.0
+            ],
+            [
+              -79.4489365,
+              9.0579577,
+              0.0
+            ],
+            [
+              -79.4487675,
+              9.057579,
+              0.0
+            ],
+            [
+              -79.4476463,
+              9.0580902,
+              0.0
+            ],
+            [
+              -79.447832,
+              9.0582969,
+              0.0
+            ],
+            [
+              -79.4476281,
+              9.0583923,
+              0.0
+            ],
+            [
+              -79.4493255,
+              9.0599613,
+              0.0
+            ],
+            [
+              -79.4497224,
+              9.0595746,
+              0.0
+            ],
+            [
+              -79.4527299,
+              9.058375,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv9",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4526227,
+              9.0581393,
+              0.0
+            ],
+            [
+              -79.4519755,
+              9.0566744,
+              0.0
+            ],
+            [
+              -79.4523188,
+              9.0558692,
+              0.0
+            ],
+            [
+              -79.451954,
+              9.0550004,
+              0.0
+            ],
+            [
+              -79.4508758,
+              9.0554878,
+              0.0
+            ],
+            [
+              -79.4510743,
+              9.0558586,
+              0.0
+            ],
+            [
+              -79.4471555,
+              9.0577419,
+              0.0
+            ],
+            [
+              -79.4469678,
+              9.0578955,
+              0.0
+            ],
+            [
+              -79.4476281,
+              9.0583923,
+              0.0
+            ],
+            [
+              -79.447832,
+              9.0582969,
+              0.0
+            ],
+            [
+              -79.4476463,
+              9.0580902,
+              0.0
+            ],
+            [
+              -79.4484184,
+              9.0577472,
+              0.0
+            ],
+            [
+              -79.4484934,
+              9.0577074,
+              0.0
+            ],
+            [
+              -79.4487675,
+              9.057579,
+              0.0
+            ],
+            [
+              -79.4489199,
+              9.0579432,
+              0.0
+            ],
+            [
+              -79.4492766,
+              9.0582716,
+              0.0
+            ],
+            [
+              -79.4504166,
+              9.0577551,
+              0.0
+            ],
+            [
+              -79.45053,
+              9.0574812,
+              0.0
+            ],
+            [
+              -79.4505166,
+              9.0572667,
+              0.0
+            ],
+            [
+              -79.4517264,
+              9.0566971,
+              0.0
+            ],
+            [
+              -79.4523785,
+              9.0582373,
+              0.0
+            ],
+            [
+              -79.4526227,
+              9.0581393,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv10",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4516302,
+              9.0610498,
+              0.0
+            ],
+            [
+              -79.4516041,
+              9.0610295,
+              0.0
+            ],
+            [
+              -79.4512862,
+              9.0613792,
+              0.0
+            ],
+            [
+              -79.4522543,
+              9.0622266,
+              0.0
+            ],
+            [
+              -79.4518949,
+              9.0626954,
+              0.0
+            ],
+            [
+              -79.4516294,
+              9.0628464,
+              0.0
+            ],
+            [
+              -79.4506801,
+              9.0641906,
+              0.0
+            ],
+            [
+              -79.4503341,
+              9.0639495,
+              0.0
+            ],
+            [
+              -79.449846,
+              9.0639734,
+              0.0
+            ],
+            [
+              -79.4496231,
+              9.0647464,
+              0.0
+            ],
+            [
+              -79.4498591,
+              9.0654509,
+              0.0
+            ],
+            [
+              -79.4507389,
+              9.0661131,
+              0.0
+            ],
+            [
+              -79.4516696,
+              9.0649053,
+              0.0
+            ],
+            [
+              -79.4515543,
+              9.0648391,
+              0.0
+            ],
+            [
+              -79.4524072,
+              9.0636975,
+              0.0
+            ],
+            [
+              -79.4525732,
+              9.0627198,
+              0.0
+            ],
+            [
+              -79.4539411,
+              9.0620841,
+              0.0
+            ],
+            [
+              -79.4537144,
+              9.0616201,
+              0.0
+            ],
+            [
+              -79.4529599,
+              9.0617432,
+              0.0
+            ],
+            [
+              -79.4527728,
+              9.0618179,
+              0.0
+            ],
+            [
+              -79.4526829,
+              9.0618504,
+              0.0
+            ],
+            [
+              -79.4524682,
+              9.0615061,
+              0.0
+            ],
+            [
+              -79.4523617,
+              9.06154,
+              0.0
+            ],
+            [
+              -79.4516302,
+              9.0610498,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv11",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4507242,
+              9.0603634,
+              0.0
+            ],
+            [
+              -79.450361,
+              9.0606111,
+              0.0
+            ],
+            [
+              -79.4501893,
+              9.0613634,
+              0.0
+            ],
+            [
+              -79.4497441,
+              9.0613051,
+              0.0
+            ],
+            [
+              -79.4492786,
+              9.0636903,
+              0.0
+            ],
+            [
+              -79.4485866,
+              9.0636797,
+              0.0
+            ],
+            [
+              -79.4484954,
+              9.0641512,
+              0.0
+            ],
+            [
+              -79.4487744,
+              9.0642306,
+              0.0
+            ],
+            [
+              -79.4487368,
+              9.0646809,
+              0.0
+            ],
+            [
+              -79.449284,
+              9.0647816,
+              0.0
+            ],
+            [
+              -79.4497775,
+              9.0660265,
+              0.0
+            ],
+            [
+              -79.4500565,
+              9.0659258,
+              0.0
+            ],
+            [
+              -79.4498591,
+              9.0654509,
+              0.0
+            ],
+            [
+              -79.4496231,
+              9.0647464,
+              0.0
+            ],
+            [
+              -79.449846,
+              9.0639734,
+              0.0
+            ],
+            [
+              -79.4503341,
+              9.0639495,
+              0.0
+            ],
+            [
+              -79.4506801,
+              9.0641906,
+              0.0
+            ],
+            [
+              -79.4516294,
+              9.0628464,
+              0.0
+            ],
+            [
+              -79.4518949,
+              9.0626954,
+              0.0
+            ],
+            [
+              -79.4522543,
+              9.0622266,
+              0.0
+            ],
+            [
+              -79.4512862,
+              9.0613792,
+              0.0
+            ],
+            [
+              -79.4516041,
+              9.0610295,
+              0.0
+            ],
+            [
+              -79.4515034,
+              9.0609625,
+              0.0
+            ],
+            [
+              -79.4512084,
+              9.0606341,
+              0.0
+            ],
+            [
+              -79.4507242,
+              9.0603634,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boulevard",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4441529,
+              9.0529194,
+              0.0
+            ],
+            [
+              -79.4449924,
+              9.0546597,
+              0.0
+            ],
+            [
+              -79.4452365,
+              9.0545723,
+              0.0
+            ],
+            [
+              -79.4464006,
+              9.0528029,
+              0.0
+            ],
+            [
+              -79.4471301,
+              9.0525168,
+              0.0
+            ],
+            [
+              -79.4470389,
+              9.0520453,
+              0.0
+            ],
+            [
+              -79.4465132,
+              9.052146,
+              0.0
+            ],
+            [
+              -79.4441529,
+              9.0529194,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Internacional",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4449924,
+              9.0546597,
+              0.0
+            ],
+            [
+              -79.4461249,
+              9.0570057,
+              0.0
+            ],
+            [
+              -79.4469678,
+              9.0578955,
+              0.0
+            ],
+            [
+              -79.4471555,
+              9.0577419,
+              0.0
+            ],
+            [
+              -79.4485577,
+              9.0570666,
+              0.0
+            ],
+            [
+              -79.4484557,
+              9.0568865,
+              0.0
+            ],
+            [
+              -79.4484236,
+              9.0568415,
+              0.0
+            ],
+            [
+              -79.4481982,
+              9.0563329,
+              0.0
+            ],
+            [
+              -79.4475567,
+              9.0550424,
+              0.0
+            ],
+            [
+              -79.4475942,
+              9.0547829,
+              0.0
+            ],
+            [
+              -79.4476827,
+              9.0545617,
+              0.0
+            ],
+            [
+              -79.447731,
+              9.054375,
+              0.0
+            ],
+            [
+              -79.4474333,
+              9.0542531,
+              0.0
+            ],
+            [
+              -79.4474951,
+              9.0538002,
+              0.0
+            ],
+            [
+              -79.4472483,
+              9.0537313,
+              0.0
+            ],
+            [
+              -79.4452365,
+              9.0545723,
+              0.0
+            ],
+            [
+              -79.4450703,
+              9.0546478,
+              0.0
+            ],
+            [
+              -79.4449924,
+              9.0546597,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Flor",
+        "styleUrl": "#poly-0288D1-1200-10-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.447731,
+              9.054375,
+              0.0
+            ],
+            [
+              -79.4476827,
+              9.0545617,
+              0.0
+            ],
+            [
+              -79.4475942,
+              9.0547829,
+              0.0
+            ],
+            [
+              -79.4475567,
+              9.0550424,
+              0.0
+            ],
+            [
+              -79.4484557,
+              9.0568865,
+              0.0
+            ],
+            [
+              -79.4485577,
+              9.0570666,
+              0.0
+            ],
+            [
+              -79.4510743,
+              9.0558586,
+              0.0
+            ],
+            [
+              -79.4508758,
+              9.0554878,
+              0.0
+            ],
+            [
+              -79.449737,
+              9.0531386,
+              0.0
+            ],
+            [
+              -79.4484817,
+              9.0532816,
+              0.0
+            ],
+            [
+              -79.4475429,
+              9.0536525,
+              0.0
+            ],
+            [
+              -79.4474951,
+              9.0538002,
+              0.0
+            ],
+            [
+              -79.4474333,
+              9.0542531,
+              0.0
+            ],
+            [
+              -79.447731,
+              9.054375,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flia Cajar",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.454781,
+          9.056321,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colegio Bilingue Cerro Viento",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4550916,
+          9.0553654,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flia Williams",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45757,
+          9.0565096,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Manuel D.",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4562394,
+          9.0577424,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tienda",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.455973,
+          9.0571837,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tienda",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4561701,
+          9.0568407,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escuela Padre Xavier",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4579071,
+          9.0599613,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parroquia",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4579581,
+          9.0604672,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colegio Bilingue Jesus de Praga",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4582336,
+          9.0570712,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flia Perez",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4532207,
+          9.0629508,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa de Mirna Gran",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4543414,
+          9.0621557,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aristides",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4543476,
+          9.0551422,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metromall",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4517434,
+          9.0527251,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shachos Grill",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.455766,
+          9.0539803,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batista",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4554922,
+          9.0616035,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flia Fhillips",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4535782,
+          9.0587209,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flia Arosemena",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4516879,
+          9.0609302,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa de Piedra",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.452485,
+          9.0622823,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La \"T\"",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4497508,
+          9.0626894,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Policia de Cerro Viento",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.449624,
+          9.0599806,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tienda",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4566006,
+          9.0569361,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chang",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4518064,
+          9.0579882,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lava autos",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.44933,
+          9.0598258,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iglesia",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4478786,
+          9.0584327,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flia Plummer",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4482646,
+          9.0587552,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iglesia de San Antonio",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4472853,
+          9.0585882,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colegio bilingue Cerro viento 2",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4543198,
+          9.0633133,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M/S Global",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4526004,
+          9.0583709,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M/S Stacy",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4535354,
+          9.0579896,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa de Gabriel",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.451743,
+          9.0624858,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saida",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4509787,
+          9.061435,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gasolinera",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4453336,
+          9.0551519,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tienda",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4452799,
+          9.0548923,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa de Rocio",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4462131,
+          9.0568883,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tienda",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4453597,
+          9.0553031,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jenny Aurora",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4454912,
+          9.055507,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeaneth B.",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4480107,
+          9.0568917,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flia Galvan",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4480423,
+          9.0557191,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa de Belgica",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4483212,
+          9.0558145,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flia Hind",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4498662,
+          9.0557456,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Familia Lopez",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4663636,
+          9.0496363,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plasa Brisas del Golf",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4596231,
+          9.0590067,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flia Grundinger",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4594692,
+          9.0604758,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmera del Golf",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4608222,
+          9.0570025,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa de monjas",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4545685,
+          9.067948,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parroquia San Juan",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4535268,
+          9.0670348,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4598319,
+          9.063057,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McDonald´s",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4526719,
+          9.0701981,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Super 99",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4532158,
+          9.0694189,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.452415,
+          9.0755512,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Familia Dominguez",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4529729,
+          9.0754347,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auto Centro",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4545319,
+          9.0708294,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque recreativo",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4531931,
+          9.0685388,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rey de Brisas",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4516691,
+          9.0692329,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banco General",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4521246,
+          9.0699915,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novey",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4516612,
+          9.0698991,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flia Suman",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4559426,
+          9.0741821,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colegio Saint George",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4582013,
+          9.0742492,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cnacha de Futbol",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4574428,
+          9.0788907,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque Recreativo",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4565576,
+          9.0787371,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delta de Brisas",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4582453,
+          9.0708655,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Misional",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4581994,
+          9.0722915,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza Premiun",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4617889,
+          9.0700106,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KFC",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4603137,
+          9.0698861,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa de la hermana Mirna Olmos",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4629293,
+          9.0557908,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa del hemano Ricardo",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4672356,
+          9.0622897,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Familia Sanchez",
+        "styleUrl": "#icon-1739-01579B-labelson-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4601179,
+          9.077692,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador del pacifico",
+        "description": "Descripción: <br>nombre:",
+        "styleUrl": "#poly-BDBDBD-1200-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4667463,
+              9.0481447,
+              0.0
+            ],
+            [
+              -79.4667356,
+              9.0481976,
+              0.0
+            ],
+            [
+              -79.465829,
+              9.0499194,
+              0.0
+            ],
+            [
+              -79.4660651,
+              9.0507405,
+              0.0
+            ],
+            [
+              -79.4669809,
+              9.0512279,
+              0.0
+            ],
+            [
+              -79.4683005,
+              9.0504863,
+              0.0
+            ],
+            [
+              -79.4685044,
+              9.0502638,
+              0.0
+            ],
+            [
+              -79.4676139,
+              9.0491301,
+              0.0
+            ],
+            [
+              -79.4667463,
+              9.0481447,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Pera",
+        "description": "Descripción: <br>nombre:",
+        "styleUrl": "#poly-BDBDBD-1200-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4667463,
+              9.0481447,
+              0.0
+            ],
+            [
+              -79.4658778,
+              9.046777,
+              0.0
+            ],
+            [
+              -79.4637317,
+              9.0475175,
+              0.0
+            ],
+            [
+              -79.4634742,
+              9.0494883,
+              0.0
+            ],
+            [
+              -79.4633669,
+              9.0502511,
+              0.0
+            ],
+            [
+              -79.4649762,
+              9.0515437,
+              0.0
+            ],
+            [
+              -79.465829,
+              9.0499194,
+              0.0
+            ],
+            [
+              -79.4667463,
+              9.0481447,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg1",
+        "description": "Descripción: <br>nombre:",
+        "styleUrl": "#poly-BDBDBD-1200-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4601036,
+              9.0611843,
+              0.0
+            ],
+            [
+              -79.4619436,
+              9.0610466,
+              0.0
+            ],
+            [
+              -79.4617397,
+              9.0584773,
+              0.0
+            ],
+            [
+              -79.4612784,
+              9.0561411,
+              0.0
+            ],
+            [
+              -79.4597656,
+              9.0563,
+              0.0
+            ],
+            [
+              -79.4601036,
+              9.0611843,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg 2",
+        "description": "Descripción: <br>nombre:",
+        "styleUrl": "#poly-BDBDBD-1200-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4619436,
+              9.0610466,
+              0.0
+            ],
+            [
+              -79.4601036,
+              9.0611843,
+              0.0
+            ],
+            [
+              -79.4601166,
+              9.0631127,
+              0.0
+            ],
+            [
+              -79.4595909,
+              9.0636636,
+              0.0
+            ],
+            [
+              -79.4601166,
+              9.0648291,
+              0.0
+            ],
+            [
+              -79.4618118,
+              9.0648185,
+              0.0
+            ],
+            [
+              -79.4619436,
+              9.0610466,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg3",
+        "description": "Descripción: <br>nombre:",
+        "styleUrl": "#poly-BDBDBD-1200-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4601166,
+              9.0648291,
+              0.0
+            ],
+            [
+              -79.4595909,
+              9.0636636,
+              0.0
+            ],
+            [
+              -79.4534087,
+              9.0664943,
+              0.0
+            ],
+            [
+              -79.4541275,
+              9.0679405,
+              0.0
+            ],
+            [
+              -79.455871,
+              9.0668545,
+              0.0
+            ],
+            [
+              -79.4562143,
+              9.0660864,
+              0.0
+            ],
+            [
+              -79.456976,
+              9.0657103,
+              0.0
+            ],
+            [
+              -79.4571531,
+              9.0660705,
+              0.0
+            ],
+            [
+              -79.4601166,
+              9.0648291,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg4",
+        "description": "Descripción: <br>nombre: Bg4",
+        "styleUrl": "#poly-BDBDBD-1200-15",
+        "nombre": "Bg4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4598205,
+              9.0592197,
+              0.0
+            ],
+            [
+              -79.4593886,
+              9.0592409,
+              0.0
+            ],
+            [
+              -79.4593618,
+              9.058976,
+              0.0
+            ],
+            [
+              -79.4588871,
+              9.0590105,
+              0.0
+            ],
+            [
+              -79.458938,
+              9.0614764,
+              0.0
+            ],
+            [
+              -79.4594155,
+              9.0629809,
+              0.0
+            ],
+            [
+              -79.4600538,
+              9.0628803,
+              0.0
+            ],
+            [
+              -79.4598205,
+              9.0592197,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg4",
+        "description": "Descripción: <br>nombre:",
+        "styleUrl": "#poly-BDBDBD-1200-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4581323,
+              9.0641975,
+              0.0
+            ],
+            [
+              -79.4589476,
+              9.0638532,
+              0.0
+            ],
+            [
+              -79.4589208,
+              9.063387,
+              0.0
+            ],
+            [
+              -79.4584809,
+              9.0619991,
+              0.0
+            ],
+            [
+              -79.4579767,
+              9.0622216,
+              0.0
+            ],
+            [
+              -79.4583629,
+              9.0635883,
+              0.0
+            ],
+            [
+              -79.4574832,
+              9.0639274,
+              0.0
+            ],
+            [
+              -79.4577299,
+              9.064383,
+              0.0
+            ],
+            [
+              -79.4581323,
+              9.0641975,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg5",
+        "description": "Descripción: <br>nombre:",
+        "styleUrl": "#poly-BDBDBD-1200-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4565942,
+              9.0648973,
+              0.0
+            ],
+            [
+              -79.4556608,
+              9.063059,
+              0.0
+            ],
+            [
+              -79.4520022,
+              9.06459,
+              0.0
+            ],
+            [
+              -79.4529786,
+              9.0665606,
+              0.0
+            ],
+            [
+              -79.4565942,
+              9.0648973,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg6",
+        "styleUrl": "#poly-A52714-1200-3-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4524617,
+              9.075713,
+              0.0
+            ],
+            [
+              -79.4531269,
+              9.0746959,
+              0.0
+            ],
+            [
+              -79.4542964,
+              9.070956,
+              0.0
+            ],
+            [
+              -79.4523008,
+              9.0703097,
+              0.0
+            ],
+            [
+              -79.4523652,
+              9.071009,
+              0.0
+            ],
+            [
+              -79.4522472,
+              9.0718248,
+              0.0
+            ],
+            [
+              -79.4517751,
+              9.0733928,
+              0.0
+            ],
+            [
+              -79.4511421,
+              9.0753528,
+              0.0
+            ],
+            [
+              -79.4519039,
+              9.0755964,
+              0.0
+            ],
+            [
+              -79.4524617,
+              9.075713,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg7",
+        "styleUrl": "#poly-A52714-1200-3-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4524617,
+              9.075713,
+              0.0
+            ],
+            [
+              -79.4518288,
+              9.0755555,
+              0.0
+            ],
+            [
+              -79.4511421,
+              9.0753528,
+              0.0
+            ],
+            [
+              -79.4497581,
+              9.0801747,
+              0.0
+            ],
+            [
+              -79.4509705,
+              9.0805137,
+              0.0
+            ],
+            [
+              -79.4516464,
+              9.0782253,
+              0.0
+            ],
+            [
+              -79.4520648,
+              9.0768904,
+              0.0
+            ],
+            [
+              -79.4522794,
+              9.0760323,
+              0.0
+            ],
+            [
+              -79.4524617,
+              9.075713,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg8",
+        "styleUrl": "#poly-A52714-1200-3-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4509705,
+              9.0805137,
+              0.0
+            ],
+            [
+              -79.4524922,
+              9.0809897,
+              0.0
+            ],
+            [
+              -79.4539085,
+              9.0804177,
+              0.0
+            ],
+            [
+              -79.4545415,
+              9.0787596,
+              0.0
+            ],
+            [
+              -79.4530555,
+              9.0783517,
+              0.0
+            ],
+            [
+              -79.453136,
+              9.0780816,
+              0.0
+            ],
+            [
+              -79.4518163,
+              9.0776578,
+              0.0
+            ],
+            [
+              -79.4510278,
+              9.0803223,
+              0.0
+            ],
+            [
+              -79.4509705,
+              9.0805137,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg9",
+        "styleUrl": "#poly-A52714-1200-3-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4521141,
+              9.0777505,
+              0.0
+            ],
+            [
+              -79.4525406,
+              9.0764647,
+              0.0
+            ],
+            [
+              -79.4535169,
+              9.0767719,
+              0.0
+            ],
+            [
+              -79.4551906,
+              9.0712203,
+              0.0
+            ],
+            [
+              -79.4542964,
+              9.0709547,
+              0.0
+            ],
+            [
+              -79.4531269,
+              9.0746946,
+              0.0
+            ],
+            [
+              -79.4522794,
+              9.076031,
+              0.0
+            ],
+            [
+              -79.4520648,
+              9.0768891,
+              0.0
+            ],
+            [
+              -79.4518163,
+              9.0776565,
+              0.0
+            ],
+            [
+              -79.4521141,
+              9.0777505,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg12",
+        "styleUrl": "#poly-A52714-1200-3-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4559633,
+              9.0722836,
+              0.0
+            ],
+            [
+              -79.4564098,
+              9.0716466,
+              0.0
+            ],
+            [
+              -79.4565667,
+              9.071105,
+              0.0
+            ],
+            [
+              -79.4553544,
+              9.0707368,
+              0.0
+            ],
+            [
+              -79.4541625,
+              9.0747438,
+              0.0
+            ],
+            [
+              -79.4548921,
+              9.074908,
+              0.0
+            ],
+            [
+              -79.4550983,
+              9.0742016,
+              0.0
+            ],
+            [
+              -79.456654,
+              9.0746148,
+              0.0
+            ],
+            [
+              -79.457228,
+              9.074048,
+              0.0
+            ],
+            [
+              -79.4576732,
+              9.0734176,
+              0.0
+            ],
+            [
+              -79.4579093,
+              9.0731739,
+              0.0
+            ],
+            [
+              -79.4579528,
+              9.0728562,
+              0.0
+            ],
+            [
+              -79.4559633,
+              9.0722836,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg13",
+        "styleUrl": "#poly-A52714-1200-3-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4553768,
+              9.0795888,
+              0.0
+            ],
+            [
+              -79.455484,
+              9.0792498,
+              0.0
+            ],
+            [
+              -79.456219,
+              9.079128,
+              0.0
+            ],
+            [
+              -79.4564121,
+              9.0784341,
+              0.0
+            ],
+            [
+              -79.457839,
+              9.0788737,
+              0.0
+            ],
+            [
+              -79.4580482,
+              9.0790432,
+              0.0
+            ],
+            [
+              -79.459223,
+              9.077809,
+              0.0
+            ],
+            [
+              -79.4599794,
+              9.0753987,
+              0.0
+            ],
+            [
+              -79.4583808,
+              9.0748955,
+              0.0
+            ],
+            [
+              -79.4579088,
+              9.0760927,
+              0.0
+            ],
+            [
+              -79.4577693,
+              9.0761509,
+              0.0
+            ],
+            [
+              -79.4573294,
+              9.0750173,
+              0.0
+            ],
+            [
+              -79.4555538,
+              9.0763363,
+              0.0
+            ],
+            [
+              -79.4548993,
+              9.0785559,
+              0.0
+            ],
+            [
+              -79.4547974,
+              9.0794405,
+              0.0
+            ],
+            [
+              -79.4553768,
+              9.0795888,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg10",
+        "styleUrl": "#poly-558B2F-1200-8-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4616232,
+              9.070798,
+              0.0
+            ],
+            [
+              -79.4612638,
+              9.0698179,
+              0.0
+            ],
+            [
+              -79.4580129,
+              9.0707609,
+              0.0
+            ],
+            [
+              -79.458147,
+              9.0712058,
+              0.0
+            ],
+            [
+              -79.4581041,
+              9.0728268,
+              0.0
+            ],
+            [
+              -79.4585869,
+              9.0727103,
+              0.0
+            ],
+            [
+              -79.4588391,
+              9.073685,
+              0.0
+            ],
+            [
+              -79.4595954,
+              9.0734625,
+              0.0
+            ],
+            [
+              -79.461253,
+              9.0714654,
+              0.0
+            ],
+            [
+              -79.4616232,
+              9.070798,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg11",
+        "styleUrl": "#poly-558B2F-1200-8-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4595995,
+              9.0701946,
+              0.0
+            ],
+            [
+              -79.4594064,
+              9.0695801,
+              0.0
+            ],
+            [
+              -79.458811,
+              9.0697284,
+              0.0
+            ],
+            [
+              -79.4586983,
+              9.0694,
+              0.0
+            ],
+            [
+              -79.4559356,
+              9.0699138,
+              0.0
+            ],
+            [
+              -79.4557479,
+              9.0707137,
+              0.0
+            ],
+            [
+              -79.4567939,
+              9.0709521,
+              0.0
+            ],
+            [
+              -79.4595995,
+              9.0701946,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colinas del Golf",
+        "styleUrl": "#poly-558B2F-1200-8-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4609393,
+              9.0519267,
+              0.0
+            ],
+            [
+              -79.4608749,
+              9.051932,
+              0.0
+            ],
+            [
+              -79.4617547,
+              9.0560906,
+              0.0
+            ],
+            [
+              -79.4625593,
+              9.0559635,
+              0.0
+            ],
+            [
+              -79.463144,
+              9.0558999,
+              0.0
+            ],
+            [
+              -79.4630689,
+              9.0548775,
+              0.0
+            ],
+            [
+              -79.4644422,
+              9.0546868,
+              0.0
+            ],
+            [
+              -79.4644691,
+              9.054941,
+              0.0
+            ],
+            [
+              -79.4649143,
+              9.0547133,
+              0.0
+            ],
+            [
+              -79.4649572,
+              9.0540669,
+              0.0
+            ],
+            [
+              -79.464453,
+              9.0532829,
+              0.0
+            ],
+            [
+              -79.4631172,
+              9.0533412,
+              0.0
+            ],
+            [
+              -79.4610251,
+              9.0519691,
+              0.0
+            ],
+            [
+              -79.4609393,
+              9.0519267,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Arboleda",
+        "styleUrl": "#poly-558B2F-1200-8-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4696021,
+              9.0639949,
+              0.0
+            ],
+            [
+              -79.4711042,
+              9.060721,
+              0.0
+            ],
+            [
+              -79.4694412,
+              9.0597569,
+              0.0
+            ],
+            [
+              -79.4687975,
+              9.0598311,
+              0.0
+            ],
+            [
+              -79.4675744,
+              9.0620348,
+              0.0
+            ],
+            [
+              -79.4668877,
+              9.0622043,
+              0.0
+            ],
+            [
+              -79.466877,
+              9.0626493,
+              0.0
+            ],
+            [
+              -79.4684756,
+              9.0627871,
+              0.0
+            ],
+            [
+              -79.4694841,
+              9.0638677,
+              0.0
+            ],
+            [
+              -79.4696021,
+              9.0639949,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las trancas",
+        "styleUrl": "#poly-558B2F-1200-8-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4715129,
+              9.067216,
+              0.0
+            ],
+            [
+              -79.4723282,
+              9.0666015,
+              0.0
+            ],
+            [
+              -79.4730364,
+              9.0664108,
+              0.0
+            ],
+            [
+              -79.4736908,
+              9.0657222,
+              0.0
+            ],
+            [
+              -79.4728969,
+              9.0651924,
+              0.0
+            ],
+            [
+              -79.4722639,
+              9.0646309,
+              0.0
+            ],
+            [
+              -79.4711481,
+              9.0634655,
+              0.0
+            ],
+            [
+              -79.4710837,
+              9.0623636,
+              0.0
+            ],
+            [
+              -79.4706975,
+              9.0621623,
+              0.0
+            ],
+            [
+              -79.4701181,
+              9.0629781,
+              0.0
+            ],
+            [
+              -79.4699572,
+              9.0642071,
+              0.0
+            ],
+            [
+              -79.4694851,
+              9.0647262,
+              0.0
+            ],
+            [
+              -79.4693885,
+              9.0657539,
+              0.0
+            ],
+            [
+              -79.4698499,
+              9.0680318,
+              0.0
+            ],
+            [
+              -79.4709657,
+              9.0683073,
+              0.0
+            ],
+            [
+              -79.4715021,
+              9.0673008,
+              0.0
+            ],
+            [
+              -79.4715129,
+              9.067216,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro Viento Rural",
+        "styleUrl": "#poly-558B2F-1200-8-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4618123,
+              9.0798657,
+              0.0
+            ],
+            [
+              -79.4622093,
+              9.0791665,
+              0.0
+            ],
+            [
+              -79.4623916,
+              9.0769204,
+              0.0
+            ],
+            [
+              -79.4618552,
+              9.0755749,
+              0.0
+            ],
+            [
+              -79.4600635,
+              9.0755326,
+              0.0
+            ],
+            [
+              -79.4602244,
+              9.0760305,
+              0.0
+            ],
+            [
+              -79.459806,
+              9.0765496,
+              0.0
+            ],
+            [
+              -79.4593125,
+              9.0777362,
+              0.0
+            ],
+            [
+              -79.4586151,
+              9.0784672,
+              0.0
+            ],
+            [
+              -79.4599455,
+              9.0793466,
+              0.0
+            ],
+            [
+              -79.4609003,
+              9.0798975,
+              0.0
+            ],
+            [
+              -79.4615655,
+              9.0798763,
+              0.0
+            ],
+            [
+              -79.4618123,
+              9.0798657,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La isla del Hombre",
+        "styleUrl": "#poly-558B2F-1200-8-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4664117,
+              9.0784842,
+              0.0
+            ],
+            [
+              -79.4674095,
+              9.077679,
+              0.0
+            ],
+            [
+              -79.4653818,
+              9.0752211,
+              0.0
+            ],
+            [
+              -79.464899,
+              9.075327,
+              0.0
+            ],
+            [
+              -79.4650921,
+              9.0759945,
+              0.0
+            ],
+            [
+              -79.4653496,
+              9.0774247,
+              0.0
+            ],
+            [
+              -79.4646629,
+              9.0772658,
+              0.0
+            ],
+            [
+              -79.4645664,
+              9.0781769,
+              0.0
+            ],
+            [
+              -79.4655534,
+              9.0782511,
+              0.0
+            ],
+            [
+              -79.4657573,
+              9.0798932,
+              0.0
+            ],
+            [
+              -79.4660899,
+              9.0797873,
+              0.0
+            ],
+            [
+              -79.4664117,
+              9.0784842,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Montañeza",
+        "styleUrl": "#poly-558B2F-1200-8-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.4694621,
+              9.0733223,
+              0.0
+            ],
+            [
+              -79.4693548,
+              9.0728243,
+              0.0
+            ],
+            [
+              -79.4670696,
+              9.0729514,
+              0.0
+            ],
+            [
+              -79.4671769,
+              9.0752717,
+              0.0
+            ],
+            [
+              -79.4689579,
+              9.0752081,
+              0.0
+            ],
+            [
+              -79.4694621,
+              9.0734388,
+              0.0
+            ],
+            [
+              -79.4694621,
+              9.0733223,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cv2",
+        "styleUrl": "#icon-ci-2-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4542381,
+          9.0560555,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv3",
+        "styleUrl": "#icon-ci-3-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4576161,
+          9.058312,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv4",
+        "styleUrl": "#icon-ci-4-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4557175,
+          9.0582679,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv5",
+        "styleUrl": "#icon-ci-5-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4561672,
+          9.0612342,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv1",
+        "styleUrl": "#icon-ci-6-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4565081,
+          9.0552259,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv6",
+        "styleUrl": "#icon-ci-7-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4540368,
+          9.0598029,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv7",
+        "styleUrl": "#icon-ci-8-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4519035,
+          9.0601642,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv8",
+        "styleUrl": "#icon-ci-9-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.451012,
+          9.0584991,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv9",
+        "styleUrl": "#icon-ci-10-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4495753,
+          9.0572314,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv10",
+        "styleUrl": "#icon-ci-11-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4515242,
+          9.0640512,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cv11",
+        "styleUrl": "#icon-ci-12-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4505629,
+          9.0627981,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Flor",
+        "styleUrl": "#icon-ci-13-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4491423,
+          9.0553213,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Internacional",
+        "styleUrl": "#icon-ci-14-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4469,
+          9.05601,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boulevard",
+        "styleUrl": "#icon-ci-15-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4452155,
+          9.0533294,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Pera",
+        "styleUrl": "#icon-ci-16-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4649811,
+          9.0490434,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador del Pacifico",
+        "styleUrl": "#icon-ci-17-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4669874,
+          9.0500076,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg1",
+        "styleUrl": "#icon-ci-18-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4609277,
+          9.0586541,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg2",
+        "styleUrl": "#icon-ci-19-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.461007,
+          9.0629441,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg3",
+        "styleUrl": "#icon-ci-20-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4572741,
+          9.0653108,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg4",
+        "styleUrl": "#icon-ci-21-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4594758,
+          9.0609982,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg4",
+        "styleUrl": "#icon-ci-21-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.458533,
+          9.0633274,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg5",
+        "styleUrl": "#icon-ci-22-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4544022,
+          9.0649573,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg6",
+        "styleUrl": "#icon-ci-23-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4527057,
+          9.0732799,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg7",
+        "styleUrl": "#icon-ci-24-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4511709,
+          9.0777324,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg8",
+        "styleUrl": "#icon-ci-25-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4526287,
+          9.0795584,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg9",
+        "styleUrl": "#icon-ci-26-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4537147,
+          9.0745123,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg12",
+        "styleUrl": "#icon-ci-27-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4558521,
+          9.0733273,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg13",
+        "styleUrl": "#icon-ci-28-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4574308,
+          9.0775029,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg10",
+        "styleUrl": "#icon-ci-29-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4596125,
+          9.0716435,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bg11",
+        "styleUrl": "#icon-ci-30-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4577564,
+          9.0701709,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro Viento Rutal",
+        "styleUrl": "#icon-ci-31-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4608775,
+          9.0778293,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isla del Hombre",
+        "styleUrl": "#icon-ci-32-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4659186,
+          9.0776688,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La montañeza",
+        "styleUrl": "#icon-ci-33-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4682336,
+          9.0740708,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Tancas",
+        "styleUrl": "#icon-ci-34-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4711065,
+          9.0655347,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Arboleda",
+        "styleUrl": "#icon-ci-35-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4692129,
+          9.0618213,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonas del Golf",
+        "styleUrl": "#icon-ci-36-nodesc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4626542,
+          9.0543522,
+          0.0
+        ]
+      }
+    }
+  ]
+}
